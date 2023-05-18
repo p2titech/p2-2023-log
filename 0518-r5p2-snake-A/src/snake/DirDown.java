@@ -2,7 +2,7 @@ package snake;
 
 import geometry.Posn;
 
-//下方向 (1,0) に対応するクラス。
+//下方向 (0,1) に対応するクラス。
 public class DirDown implements IDirection {
 	
 	public Posn dirToPosn() {
