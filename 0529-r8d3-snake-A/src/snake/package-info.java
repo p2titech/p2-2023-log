@@ -1,0 +1,8 @@
+/**
+ * 
+ */
+/**
+ * @author masuhara
+ *
+ */
+package snake;
